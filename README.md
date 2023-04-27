@@ -1,4 +1,4 @@
-**Hi there! Welcome to my Github.**
+## **Hi there! Welcome to my Github.**
 
 My name is Gabriel Pacheco, and I'm a Data Scientist from Brazil! 
 I love games, music, movies, books, lists, and jokes!!! (there goes a joke for you)
@@ -23,13 +23,14 @@ Down below you can find some of my projects. 👇
 
 ---
 
-### The project I'm working on:
+## The project I'm working on:
 
-https://github.com/gasp37/employee-attrition-and-performance
+[Employees Attriton](https://github.com/gasp37/employee-attrition-and-performance)
 
-### Other projects:
+## Other projects:
 
-|Project |Description | Tools|
-|--------|------------|------|
-|[Employees Attrition](https://github.com/gasp37/employee-attrition-and-performance)| **Clustering and classification** project, predicting employees close to leaving the company|Pandas, Matplotlib, Sklearn|
+|Project |Description | Algorithms|Tools|
+|--------|------------|------|------|
+|[Employees Attrition](https://github.com/gasp37/employee-attrition-and-performance)| **Clustering and classification** project, predicting employees close to leaving the company| K-Means, Logistic Regression, Decision Trees, Naive Bayes| Pandas, Matplotlib, Sklearn|
+|[Household power consumption](https://github.com/gasp37/household-power-consumption)| Machine learning project with the goal of analyzing and clustering a household power consumption, and measuring the average power consumption per cluster. | K-Means | Pandas, Matplotlib, Sklearn|
 
