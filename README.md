@@ -1,22 +1,40 @@
-Hi there! 
+**Hi there! Welcome to my Github.**
 
-My name is Gabriel Pacheco and I work at meetz.com.br as a Data Scientist.
+My name is Gabriel Pacheco, and I'm a Data Scientist from Brazil! 
+I love games, music, movies, books, lists, and jokes!!! (there goes a joke for you)
 
+You can reach me at: gasp37@hotmail.com
+or my [LinkedIn.](linkedin.com/in/gabriel-pacheco37/)
 
-Here are some languages, libraries, and tools that I use.
+Some tools that I use are:
 
-  Languages: Python, MySQL, R
+- Python and it's data related libraries
+- MySQL, PostgreSQL and NoSQL (MongoDB)
+- Apache Spark
+- Google Cloud Platform
+- DataViz tools (PowerBI, Looker, Metabase)
 
-  Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
+There's more but those are the ones I use the most.
 
-  Tools: Power BI, Data Studio, MongoDB
+Currently, I'm focused on learning more about Machine Learning (human learning machine learning, yeah i know the irony)
 
-Currently, I'm learning Apache Spark and studying more about Machine Learning.
+Down below you can find some of my projects. 👇
 
-I’ll also try to post monthly articles or scripts about my learning journey, I hope you enjoy it!! 😁
+---
 
+You can reach me at: gasp37@hotmail.com
 
-You can  reach me at: gasp37@hotmail.com
+or my LinkedIn linkedin.com/in/gabriel-pacheco37/
 
-or my LinkedIn: https://www.linkedin.com/in/gabriel-pacheco-028b66147
+---
+
+### The project I'm working on:
+
+https://github.com/gasp37/employee-attrition-and-performance
+
+### Other projects:
+
+|Project |Description | Tools|
+|--------|------------|------|
+|[Employees Attrition](https://github.com/gasp37/employee-attrition-and-performance)| **Clustering and classification** project, predicting employees close to leaving the company|Pandas, Matplotlib, Sklearn|
 
