@@ -20,11 +20,6 @@ Currently, I'm focused on learning more about Machine Learning (human learning m
 
 Down below you can find some of my projects. 👇
 
----
-
-You can reach me at: gasp37@hotmail.com
-
-or my LinkedIn linkedin.com/in/gabriel-pacheco37/
 
 ---
 
