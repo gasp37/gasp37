@@ -33,6 +33,5 @@ Down below you can find some of my projects. 👇
 |--------|------------|------|------|
 |[Employees Attrition](https://github.com/gasp37/employee-attrition-and-performance)| **Clustering and classification** project, predicting employees close to leaving the company| K-Means, Logistic Regression, Decision Trees, Naive Bayes| Pandas, Matplotlib, Sklearn|
 |[Household power consumption](https://github.com/gasp37/household-power-consumption)| Machine learning project with the goal of analyzing and clustering a household power consumption, and measuring the average power consumption per cluster. | K-Means | Pandas, Matplotlib, Sklearn|
-|[E-commerce Platform Usage](https://github.com/gasp37/e-commerce-platform-usage/blob/main/README.md)| Regression project to predict how an increase on platform usage would affect the mean amount spent by a custommer 
-Linerar Regression, Lasso, Ridge and RidgeCV |Pandas, Matplot, Seaborn, Sklearn|
+|[E-commerce Platform Usage](https://github.com/gasp37/e-commerce-platform-usage/blob/main/README.md)| Regression project to predict how an increase on platform usage would affect the mean amount spent by customers.|Linear Regression, Lasso, Ridge and RidgeCV |Pandas, Matplot, Seaborn, Sklearn|
 
