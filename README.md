@@ -25,7 +25,7 @@ Down below you can find some of my projects. 👇
 
 ## The project I'm working on:
 
-[Employees Attriton](https://github.com/gasp37/employee-attrition-and-performance)
+[Telephone Company Customer Churn](https://github.com/gasp37/telco-customer-churn)
 
 ## Other projects:
 
