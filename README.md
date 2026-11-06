@@ -1,25 +1,22 @@
 ## **Hi there! Welcome to my Github.**
 
-My name is Gabriel Pacheco, and I'm a Data Scientist from Brazil! 
+My name is Gabriel Pacheco, I work with Data Enginnering, Analytics, and Data Science.
 I love games, music, movies, books, lists, and jokes!!! (there goes a joke for you)
 
-You can reach me at: gasp37@hotmail.com
-or my [LinkedIn.](linkedin.com/in/gabriel-pacheco37/)
+You can reach me on my [LinkedIn.](linkedin.com/in/gabriel-pacheco37/)
 
 Some tools that I use are:
 
-- Python and it's data related libraries
-- MySQL, PostgreSQL and NoSQL (MongoDB)
+- Python
+- dbt
+- Snowflake, BigQuery, SQL databases
 - Apache Spark
-- Google Cloud Platform
+- Google Cloud Platform, AWS
 - DataViz tools (PowerBI, Looker, Metabase)
 
 There's more but those are the ones I use the most.
 
-Currently, I'm focused on learning more about Machine Learning (human learning machine learning, yeah i know the irony)
-
-Below you can find some of my projects. 👇
-
+Below you can find some of my projects on ML. 👇
 
 ---
 
